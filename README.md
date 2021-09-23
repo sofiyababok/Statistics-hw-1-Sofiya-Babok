@@ -45,7 +45,7 @@ ggplot(data1, aes(reorder(label, percentage), percentage))+
      theme_cowplot()
 ```
 
-![alt text](https://drive.google.com/file/d/1qwo_vKSMnBCF7LYWqX8Ue3xWtXyyZ9fu/view?usp=sharing)
+![alt text](blob:https://web.telegram.org/ecafe3d5-4781-4212-851d-f54bed64f30b)
 
 ``` r
 n = mean(data1$mortality_per_100000)
