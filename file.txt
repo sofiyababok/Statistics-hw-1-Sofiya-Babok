@@ -1,0 +1,8 @@
+label	percentage	mortality_per_100000
+cancer	3	158.3
+neurologic_disease	5	32.9
+chronic_lung_disease	9	35.8
+chronic_kidney_disease	16	59
+ischemic_heart_disease	26	73.6
+diabetes_mellitus	35	20.9
+hypertension	41	11.1
